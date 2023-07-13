@@ -1,0 +1,27 @@
+#page1 {
+    background-color: blueviolet;
+}
+
+.header {
+    color: red;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 100px;
+}
+
+.recipes {
+    margin: auto;
+    width: 50%;
+    border: 3px;
+    padding: 10px;
+    font-size: 20px;
+    background-color: aqua;
+}
+
+#page2 {
+    background-color: blueviolet;
+}
+
+.header2 {
+    text-align: center;
+}
